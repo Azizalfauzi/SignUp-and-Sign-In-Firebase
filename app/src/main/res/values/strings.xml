@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="t_judul">Login Kuy!</string>
+    <string name="t_usename">Masukan Username</string>
+    <string name="t_password">Masukan Password</string>
+    <string name="t_login">Login</string>
+    <string name="t_b_signup">Belum punya akun ?</string>
+    <string name="t_signup">SignUp</string>
+    <string name="t_judul_signup">SignUp Kuy!</string>
+    <string name="t">Masukan Username</string>
+    <string name="t_username_signup">Masukan Username</string>
+    <string name="t_nama_signup">Masukan Nama</string>
+    <string name="t_password_signup">Masukan Password</string>
+    <string name="bt_signup">Sign uP</string>
+    <string name="t_email">Masukan Email</string>
+    <string name="t_judul_dashboard">Selamat datang ,berhasil login!</string>
+    <string name="bt_logout">Logout</string>
+</resources>
